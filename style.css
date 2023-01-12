@@ -1,0 +1,16 @@
+.movie-row {
+    vertical-align: middle;
+    background-color: #f8d7da;
+  }
+  
+  .odgledano {
+    background-color: #d1e7dd;
+  }
+  
+  .input-error {
+    color: red;
+  }
+
+  #naslovi{
+    text-align: center;
+  }
